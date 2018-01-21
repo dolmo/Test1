@@ -1,5 +1,4 @@
-#Here is my age input program
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-year = str((2018 - age)+100)
-print(name + " will be 100 years old in the year " + year)
+name = raw_input("What is your name: ")
+age = int(raw_input("How old are you: "))
+year = str((2014 - age)+100)
+print(name + " will be 100 years old in the yedaar " + year)
